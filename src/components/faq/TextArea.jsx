@@ -1,12 +1,12 @@
 import React from "react";
 import Heading from "./Heading";
-import QaA from "./QaA";
+import MapQaA from "./MapQaA";
 
 const TextArea = ()=> {
     return (
         <div className="text-area"> 
             <Heading content="FAQ" />
-            <QaA />
+            <MapQaA />
         </div>
     );
 }
