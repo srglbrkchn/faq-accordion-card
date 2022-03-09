@@ -22,7 +22,6 @@ const MapQaA = () => {
                     question.clicked = false;
                     setOpenedQ(null);
                 }
-
             } else {
                 question.clicked = false;
             }

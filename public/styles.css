@@ -88,6 +88,11 @@ body {
     right: 90px;
 }
 
+.woman-mobile {
+    position: relative;
+    bottom: 100px;
+}
+
 .box {
     position: relative;
     bottom: 308px;
@@ -157,10 +162,10 @@ body {
     .q {
         width: 100%;
         padding-right: .2rem;
-        font-size: 13px;
+        font-size: 14px;
     }
     .a {
-        font-size: 12px;
+        font-size: 13px;
     }
 
     .heading {
